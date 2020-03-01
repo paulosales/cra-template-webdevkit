@@ -1,4 +1,4 @@
-# cra-template-webdevkit &middot; [![version][version-badge]][package] [![PRs Welcome][prs-badge]][prs] [![License](https://img.shields.io/npm/l/cra-template-webdevkit.svg)](https://github.com/paulosales/cra-template-webdevkit/blob/master/LICENSE)
+# cra-template-webdevkit &middot; [![version][version-badge]][package] [![PRs Welcome][prs-badge]][prs] [![License][license-badge]](https://github.com/paulosales/cra-template-webdevkit/blob/master/LICENSE) ![Publish][workflow-badge]
 
 A Create React App template extension with typescript, redux-toolkit, react-testing-library, travisci, sonarcloud, docker, commitlint.
 
@@ -46,6 +46,7 @@ Licensed under the MIT license.
 [npm]: https://www.npmjs.com/
 [node]: https://nodejs.org
 [version-badge]: https://img.shields.io/npm/v/cra-template-webdevkit.svg?style=flat-square
+[workflow-badge]: https://github.com/paulosales/cra-template-webdevkit/workflows/Publish/badge.svg
 [package]: https://www.npmjs.com/package/cra-template-webdevkit
 [license-badge]: https://img.shields.io/npm/l/paulosales/cra-template-webdevkit.svg?style=flat-square
 [license]: https://github.com/rrebase/cra-template-webdevkit/blob/master/LICENSE
