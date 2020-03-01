@@ -36,11 +36,6 @@
     "lint": "tsc --noEmit && eslint '*/**/*.{ts,tsx}'",
     "lint:fix": "yarn lint --quiet --fix"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "pretty-quick --staged && yarn test"
-    }
-  },
   "jest": {
     "coveragePathIgnorePatterns": [
       "./src/index.tsx",
