@@ -1,0 +1,28 @@
+{
+  "name": "cra-template-webdevkit",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "webdevkit"
+  ],
+  "description": "A Create React App template extension with typescript, redux-toolkit, react-testing-library, travisci, sonarcloud, docker, commitlint.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulosales/cra-template-webdevkit.git",
+    "directory": "/"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.10"
+  },
+  "bugs": {
+    "url": "https://github.com/paulosales/cra-template-webdevkit.git/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
